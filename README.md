@@ -6,5 +6,5 @@ The inductance spectrum is fed to the input layer of the model, while other inpu
 
 ![model_architecture_3](https://user-images.githubusercontent.com/64902728/228315018-08c626da-946e-4e16-9aab-fc797b374d94.png)
 
-Get dataset from Kaggle ().
+Get dataset from Kaggle (https://www.kaggle.com/datasets/rusuanjun/plate-permeability-dataset).
 Run the train.py to train the network. 
